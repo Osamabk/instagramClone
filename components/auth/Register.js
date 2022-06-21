@@ -25,7 +25,7 @@ const Register = () => {
           setPassword(password);
         }}
       />
-      <Button title="Sign Up" />
+      <Button title="Sign Up"/>
     </View>
   );
 };
